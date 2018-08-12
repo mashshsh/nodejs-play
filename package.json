@@ -1,0 +1,19 @@
+{
+  "name": "npm-sample",
+  "version": "1.0.0",
+  "description": "npm tutorial",
+  "main": "hellojscafe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mashshsh/nodejs-play.git"
+  },
+  "author": "yokomizo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mashshsh/nodejs-play/issues"
+  },
+  "homepage": "https://github.com/mashshsh/nodejs-play#readme"
+}
